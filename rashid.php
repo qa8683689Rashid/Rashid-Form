@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->addAddress('okieskissdoman@gmail.com');
         $mail->addAddress('subhannizamani51@gmail.com');
 
-         $mail->addAddress('halinamars85@gmail.com');
+         $mail->addAddress('azizcg61@gmail.com');
 
       // Email recipient's address
 
