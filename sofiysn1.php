@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Email content
         $mail->isHTML(true);
-        $mail->Subject = 'asif';
+        $mail->Subject = 'sofiyan';
         $mail->Body = $emailBody; // Set the email body using the collected form data
         
         // Send email
